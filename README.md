@@ -13,9 +13,13 @@ Crowdfunding sheet
 7. created new column Date Ended Conversion(O) to convert deadline(M) data into date format using formula (((M2/60)/60)/24)+DATE(1970,1,1)
 
 Sheet 1 contains pivot table and stacked column chart that analyse crowdfunding worksheet to count how mant campagins were sucessful, failed, canceled and live as per category
+
 Sheet 2 contains pivot table and stacked column chart that analyse crowdfunding worksheet to count how mant campagins were sucessful, failed, canceled and live as per sub-category
+
 Sheet 3 contains pivot table and stacked line with markers graph that analyse crowdfunding worksheet to count how mant campagins were sucessful, failed, canceled and live as per sub-category
+
 Sheet 4 contains goal analysis where we counted how many suscessful, failed and canceled projects based on different goal ranges. Also it shows percentage of projects that were successful, failed, or canceled per goal range. we added line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
+
 Sheet 5 contains Statistical Analysis to evaluate the values for successful campaigns and unsuccessful campaigns:
 o	The mean number of backers
 o	The median number of backers
